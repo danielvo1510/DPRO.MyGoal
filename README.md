@@ -10,11 +10,13 @@ User Interface is based on [BSB Admin theme](https://github.com/gurayyarar/Admin
 # Non-functional Requirements
 
 Reliability
-•	System able to have 99% uptime of Internet connection
+
+System able to have 99% uptime of Internet connection
 
 Scalability
-•	Able to scale horizontally to handle high traffic of concurrent connection
-•	Able to handle large amount request
+
+Able to scale horizontally to handle high traffic of concurrent connection
+Able to handle large amount request
 
 Usability
 
