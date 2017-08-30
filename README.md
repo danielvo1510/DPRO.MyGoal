@@ -7,7 +7,7 @@ This is a template to create **ASP.NET Core MVC / Angular** based startup projec
  
 User Interface is based on [BSB Admin theme](https://github.com/gurayyarar/AdminBSBMaterialDesign).
 
-#Non-functional Requirements
+# Non-functional Requirements
 
 Reliability
 •	System able to have 99% uptime of Internet connection
