@@ -16,6 +16,7 @@ System able to have 99% uptime of Internet connection
 Scalability
 
 Able to scale horizontally to handle high traffic of concurrent connection
+
 Able to handle large amount request
 
 Usability
