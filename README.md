@@ -6,7 +6,20 @@ This is a template to create **ASP.NET Core MVC / Angular** based startup projec
 2. [ASP.NET Core & Angular](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular) (single page application).
  
 User Interface is based on [BSB Admin theme](https://github.com/gurayyarar/AdminBSBMaterialDesign).
- 
+
+#Non-functional Requirements
+
+Reliability
+•	System able to have 99% uptime of Internet connection
+
+Scalability
+•	Able to scale horizontally to handle high traffic of concurrent connection
+•	Able to handle large amount request
+
+Usability
+
+Accessibility
+
 # Download
 
 Create & download your project from https://aspnetboilerplate.com/Templates
